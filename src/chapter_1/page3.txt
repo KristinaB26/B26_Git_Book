@@ -1,6 +1,4 @@
 
 Welcome to git
-
 We are having fun
-
 java java java
