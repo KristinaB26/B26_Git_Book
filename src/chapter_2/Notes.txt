@@ -2,3 +2,6 @@ this is editor notes
 
 chapter 1 is good
 keep working
+
+more fun
+more java
